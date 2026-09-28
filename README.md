@@ -6,8 +6,7 @@ Built with plain **HTML + CSS + JavaScript**. No frameworks, no build step.
 
 ## Live
 
-Deployed on **GitHub Pages** → https://shrutisubramanian.github.io/portfolio/
-_(update this URL after your first deploy if the repo name differs)_
+Deployed on **GitHub Pages** → https://shrutisubramanian.github.io/Portfolio/
 
 ## Sections
 
@@ -38,16 +37,16 @@ python -m http.server 8642
 
 ## Deploy (GitHub Pages)
 
-1. Create a **public** repo named `portfolio` on GitHub.
+1. Create a **public** repo named `Portfolio` on GitHub.
 2. Push this folder:
 
 ```bash
-git remote add origin https://github.com/shrutisubramanian/portfolio.git
+git remote add origin https://github.com/shrutisubramanian/Portfolio.git
 git push -u origin main
 ```
 
 3. Repo **Settings → Pages → Source: Deploy from a branch → main / (root) → Save**.
-4. Your site goes live at `https://shrutisubramanian.github.io/portfolio/` in a minute or two.
+4. Your site goes live at `https://shrutisubramanian.github.io/Portfolio/` in a minute or two.
 
 ## Updating
 
